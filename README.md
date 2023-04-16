@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- The below link will show you how many profile visitors you have, same thing as what I have -->
+<img src="https://komarev.com/ghpvc/?username=Annihilator2860&style=flat-square&color=blue" alt=""/>
+
+<!-- Ayanokoji gif cause why not right-->
+<img src = "https://64.media.tumblr.com/bfcad1f06c1ca677b0f62cd8c0a2f317/tumblr_ouspdhN3Sd1vjcm8po1_540.gif">
+
 <!--
 **Annihilator2860/Annihilator2860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
